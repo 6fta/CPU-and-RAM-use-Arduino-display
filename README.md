@@ -2,6 +2,7 @@
 Displays the processor and RAM usage of the linux operating system on an lcd display.
 
 find ports in python:
+
   python3 -m serial.tools.list_ports 
 
   modify the port in the script if it is not ttyUSB0
