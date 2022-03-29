@@ -1,5 +1,6 @@
 # CPU-and-RAM-use-Arduino-display
 Displays the processor and RAM usage of the linux operating system on an lcd display.
+
 find ports in python:
   python3 -m serial.tools.list_ports 
 
